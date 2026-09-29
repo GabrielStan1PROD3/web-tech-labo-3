@@ -1,0 +1,18 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav
+{
+    background-color:darkslategray;
+}
+ul>li
+{
+   list-style: none;
+}
+li>a 
+{
+ padding:10px;
+ color:white;   
+ text-decoration:none   
+}

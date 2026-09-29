@@ -1,0 +1,26 @@
+
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1
+{
+    text-shadow: 2px 2px 2px gray;
+    
+}
+h2
+{
+  color :blue;
+  letter-spacing: 2px;
+
+}
+
+h3 
+{
+    font-family:'Courier New', Courier, monospace;
+    font-style: italic;
+}
+h4
+{
+    font-weight: bold;
+}

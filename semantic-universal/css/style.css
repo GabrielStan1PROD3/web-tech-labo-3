@@ -1,0 +1,57 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    color:#14213d;
+}
+
+body
+{
+    background-color: #e5e5e5;
+}
+header
+{
+    background-color: #14213d;
+}
+nav 
+{
+    background-color: #fca311;
+}
+nav>ul
+{
+    list-style: none;
+}
+ul>li 
+{
+    font-weight: bold;
+}
+main 
+{
+    background-color: #ffffff;
+}
+section
+{
+     background-color: #e5e5e5;
+}
+article
+{
+    background-color:#ffffff;
+}
+aside 
+{
+    background-color:#fca311;
+}
+footer 
+{
+        background-color:#14213d ;
+        text-align: center; 
+        color :white;
+}
+h1
+{
+    color:#ffffff;
+    letter-spacing: 2px;
+}
+h2
+{ 
+  color:white;
+  background-color: #14213d;
+}

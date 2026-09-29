@@ -1,0 +1,32 @@
+:root {
+            --ph-14: #007bd4;
+            --ph-13: #008be2;
+            --ph-12: #16a6f1;
+            --ph-11: #38b6f3;
+            --ph-10: #5ac4f5;
+            --ph-9:  #83ccfa;
+            --ph-8:  #9ed9fc;
+            --ph-7:  #0bb877;
+            --ph-6:  #f4b5d2;
+            --ph-5:  #f497c0;
+            --ph-4:  #f178a9;
+            --ph-3:  #f15c96;
+            --ph-2:  #f14486;
+            --ph-1:  #ee2b76;
+            --ph-0:  #e01f65;
+        }
+        .ph-14 { background-color:var(--ph-14) ; }
+        .ph-13 { background-color: var(--ph-13); }
+        .ph-12 { background-color: var(--ph-12); }
+        .ph-11 { background-color: var(--ph-11); }
+        .ph-10 { background-color: var(--ph-10); }
+        .ph-9  { background-color: var(--ph-9); }
+        .ph-8  { background-color: var(--ph-8); }
+        .ph-7  { background-color: var(--ph-7); }
+        .ph-6  { background-color: var(--ph-6); }
+        .ph-5  { background-color: var(--ph-5); }
+        .ph-4  { background-color: var(--ph-4); }
+        .ph-3  { background-color: var(--ph-3); }
+        .ph-2  { background-color: var(--ph-2); }
+        .ph-1  { background-color: var(--ph-1); }
+        .ph-0  { background-color: var(--ph-0); }

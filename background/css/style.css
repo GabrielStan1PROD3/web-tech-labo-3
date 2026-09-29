@@ -1,0 +1,16 @@
+body 
+{
+    background-color:#c8c8c8;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1 {background-color: darkcyan;}
+h2{background-color: #ee3e80;}
+p
+{
+    background-color: white;
+    color : #64645a; 
+}
+h1,h2 
+{
+    color : white ;
+}
